@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+# Model ve eğitim dosyaları
+gpt2-finetuned/
+train_data.txt
 
 # Distribution / packaging
 .Python
